@@ -22,10 +22,10 @@ exports[`WalletVote should render 1`] = `
           Hide
         </span>
         <span
-          class="sc-AxhCb kwTXtP"
+          class="sc-AxhUy icixlS"
         >
           <div
-            class="sc-AxiKw dzBdqj"
+            class="sc-AxhCb fxrKLH"
             height="1em"
             width="1em"
           >
@@ -55,10 +55,10 @@ exports[`WalletVote should render 1`] = `
               class="flex items-center -space-x-2"
             >
               <div
-                class="sc-AxirZ cZokSJ border-theme-neutral-900 text-theme-neutral-900"
+                class="sc-AxiKw jQtkkF border-theme-neutral-900 text-theme-neutral-900"
               >
                 <div
-                  class="sc-AxiKw dzBdqj"
+                  class="sc-AxhCb fxrKLH"
                   height="1em"
                   width="1em"
                 >
@@ -93,7 +93,7 @@ exports[`WalletVote should render 1`] = `
                   Test
                 </span>
                 <span
-                  class="text-theme-neutral-400 font-semibold text-base"
+                  class="sc-AxjAm StDqN text-theme-neutral-400 font-semibold text-base"
                   data-testid="address__wallet-address"
                 >
                   test1
@@ -137,7 +137,7 @@ exports[`WalletVote should render 1`] = `
                   target="_blank"
                 >
                   <div
-                    class="sc-AxiKw dzBdqj text-2xl text-theme-primary"
+                    class="sc-AxhCb fxrKLH text-2xl text-theme-primary"
                     height="1em"
                     width="1em"
                   >
@@ -162,7 +162,7 @@ exports[`WalletVote should render 1`] = `
                   target="_blank"
                 >
                   <div
-                    class="sc-AxiKw dzBdqj text-xl text-theme-primary"
+                    class="sc-AxhCb fxrKLH text-xl text-theme-primary"
                     height="1em"
                     width="1em"
                   >
@@ -181,7 +181,7 @@ exports[`WalletVote should render 1`] = `
                   Status
                 </p>
                 <div
-                  class="sc-AxiKw dzBdqj text-theme-success"
+                  class="sc-AxhCb fxrKLH text-theme-success"
                   height="1em"
                   width="1em"
                 >
@@ -192,7 +192,7 @@ exports[`WalletVote should render 1`] = `
               </li>
             </ul>
             <button
-              class="sc-AxjAm ddJBbC"
+              class="sc-AxirZ fhzkRl"
               color="primary"
               data-testid="WalletVote__delegate__unvote"
               type="button"
@@ -212,10 +212,10 @@ exports[`WalletVote should render 1`] = `
               class="flex items-center -space-x-2"
             >
               <div
-                class="sc-AxirZ cZokSJ border-theme-neutral-900 text-theme-neutral-900"
+                class="sc-AxiKw jQtkkF border-theme-neutral-900 text-theme-neutral-900"
               >
                 <div
-                  class="sc-AxiKw dzBdqj"
+                  class="sc-AxhCb fxrKLH"
                   height="1em"
                   width="1em"
                 >
@@ -250,7 +250,7 @@ exports[`WalletVote should render 1`] = `
                   Test 2
                 </span>
                 <span
-                  class="text-theme-neutral-400 font-semibold text-base"
+                  class="sc-AxjAm StDqN text-theme-neutral-400 font-semibold text-base"
                   data-testid="address__wallet-address"
                 >
                   test2
@@ -288,7 +288,7 @@ exports[`WalletVote should render 1`] = `
                   Status
                 </p>
                 <div
-                  class="sc-AxiKw dzBdqj text-theme-neutral"
+                  class="sc-AxhCb fxrKLH text-theme-neutral"
                   height="1em"
                   width="1em"
                 >
@@ -299,7 +299,7 @@ exports[`WalletVote should render 1`] = `
               </li>
             </ul>
             <button
-              class="sc-AxjAm ddJBbC"
+              class="sc-AxirZ fhzkRl"
               color="primary"
               data-testid="WalletVote__delegate__unvote"
               type="button"

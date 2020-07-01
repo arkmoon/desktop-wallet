@@ -7,7 +7,7 @@ exports[`WalletDetails should render 1`] = `
   >
     <nav
       aria-labelledby="main menu"
-      class="sc-AxheI iASUCU"
+      class="sc-Axmtr htxHJf"
     >
       <div
         class="px-4 sm:px-6 lg:px-8"
@@ -317,7 +317,7 @@ exports[`WalletDetails should render 1`] = `
             </div>
           </button>
           <button
-            class="sc-AxmLO hCnZlU"
+            class="sc-fzozJi ehyJYV"
             color="primary"
             data-testid="WalletHeader__send-button"
             type="button"
@@ -325,7 +325,7 @@ exports[`WalletDetails should render 1`] = `
             Send
           </button>
           <button
-            class="sc-AxmLO ipkzTu"
+            class="sc-fzozJi dahkbH"
             color="primary"
             data-testid="WalletHeader__more-button"
             type="button"
@@ -358,15 +358,15 @@ exports[`WalletDetails should render 1`] = `
             </p>
             <label>
               <input
-                class="sc-fzozJi ffhyTJ"
+                class="sc-fzoLsD cepnXb"
                 data-testid="WalletHeader__toggle"
                 type="checkbox"
               />
               <div
-                class="sc-fzoLsD fiovtd"
+                class="sc-fzpans hZvDwV"
               >
                 <span
-                  class="sc-fzpans kxodWr"
+                  class="sc-fzplWN fjCJze"
                 />
               </div>
             </label>
@@ -454,7 +454,7 @@ exports[`WalletDetails should render 1`] = `
             Hide
           </span>
           <span
-            class="sc-Axmtr jbDzEV"
+            class="sc-AxmLO fzDkck"
           >
             <div
               class="sc-AxjAm cpczEI"
@@ -525,10 +525,10 @@ exports[`WalletDetails should render 1`] = `
                     Delegate 3
                   </span>
                   <span
-                    class="text-theme-neutral-400 font-semibold text-base"
+                    class="sc-AxgMl fFPQpl text-theme-neutral-400 font-semibold text-base"
                     data-testid="address__wallet-address"
                   >
-                    Abuzhu...FgETuW
+                    Abuzhu…FgETuW
                   </span>
                 </div>
               </div>
@@ -624,7 +624,7 @@ exports[`WalletDetails should render 1`] = `
                 </li>
               </ul>
               <button
-                class="sc-AxmLO ipkzTu"
+                class="sc-fzozJi dahkbH"
                 color="primary"
                 data-testid="WalletVote__delegate__unvote"
                 type="button"
@@ -659,7 +659,7 @@ exports[`WalletDetails should render 1`] = `
             Hide
           </span>
           <span
-            class="sc-Axmtr jbDzEV"
+            class="sc-AxmLO fzDkck"
           >
             <div
               class="sc-AxjAm cpczEI"
@@ -815,7 +815,7 @@ exports[`WalletDetails should render 1`] = `
               Show all
             </button>
             <button
-              class="sc-AxmLO ipkzTu"
+              class="sc-fzozJi dahkbH"
               color="primary"
               data-testid="WalletRegistrations__register"
               type="button"
@@ -995,10 +995,10 @@ exports[`WalletDetails should render 1`] = `
                     My Wallet
                   </span>
                   <span
-                    class="text-theme-neutral-400 font-semibold text-base"
+                    class="sc-AxgMl fFPQpl text-theme-neutral-400 font-semibold text-base"
                     data-testid="address__wallet-address"
                   >
-                    ASuusXSW9k...P6T9GQ3kqT
+                    ASuusXSW9k…P6T9GQ3kqT
                   </span>
                 </div>
               </td>
@@ -1009,7 +1009,7 @@ exports[`WalletDetails should render 1`] = `
                 class="text-sm text-right w-36"
               >
                 <div
-                  class="sc-AxgMl bNYTxW"
+                  class="sc-AxheI dbuKLQ"
                   color="success"
                 >
                   100 ARK
@@ -1065,10 +1065,10 @@ exports[`WalletDetails should render 1`] = `
                     My Wallet
                   </span>
                   <span
-                    class="text-theme-neutral-400 font-semibold text-base"
+                    class="sc-AxgMl fFPQpl text-theme-neutral-400 font-semibold text-base"
                     data-testid="address__wallet-address"
                   >
-                    ASuusXSW9k...P6T9GQ3kqT
+                    ASuusXSW9k…P6T9GQ3kqT
                   </span>
                 </div>
               </td>
@@ -1079,7 +1079,7 @@ exports[`WalletDetails should render 1`] = `
                 class="text-sm text-right w-36"
               >
                 <div
-                  class="sc-AxgMl eXChH"
+                  class="sc-AxheI kinEEx"
                   color="danger"
                 >
                   - 100 ARK
@@ -1263,10 +1263,10 @@ exports[`WalletDetails should render 1`] = `
                     My Wallet
                   </span>
                   <span
-                    class="text-theme-neutral-400 font-semibold text-base"
+                    class="sc-AxgMl fFPQpl text-theme-neutral-400 font-semibold text-base"
                     data-testid="address__wallet-address"
                   >
-                    ASuusXSW9k...P6T9GQ3kqT
+                    ASuusXSW9k…P6T9GQ3kqT
                   </span>
                 </div>
               </td>
@@ -1277,7 +1277,7 @@ exports[`WalletDetails should render 1`] = `
                 class="text-sm text-right w-36"
               >
                 <div
-                  class="sc-AxgMl eXChH"
+                  class="sc-AxheI kinEEx"
                   color="danger"
                 >
                   - 100 ARK
@@ -1330,7 +1330,7 @@ exports[`WalletDetails should render 1`] = `
                 Show
               </span>
               <span
-                class="sc-Axmtr cwmxaH"
+                class="sc-AxmLO WTmEC"
               >
                 <div
                   class="sc-AxjAm cpczEI"
@@ -1557,10 +1557,10 @@ exports[`WalletDetails should render 1`] = `
                           ARK Wallet 1
                         </span>
                         <span
-                          class="text-theme-neutral-400 font-semibold text-base"
+                          class="sc-AxgMl fFPQpl text-theme-neutral-400 font-semibold text-base"
                           data-testid="address__wallet-address"
                         >
-                          ASuusXSW9...6T9GQ3kqT
+                          ASuusXSW9…6T9GQ3kqT
                         </span>
                       </div>
                     </td>

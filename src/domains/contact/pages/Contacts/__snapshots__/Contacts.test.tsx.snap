@@ -314,7 +314,7 @@ exports[`Contacts should render with contacts 1`] = `
                       class="flex items-center space-x-3"
                     >
                       <div
-                        class="sc-fzpans bVDTSU bg-theme-primary-600 border-theme-primary-600"
+                        class="sc-fzplWN iVxRgF bg-theme-primary-600 border-theme-primary-600"
                       >
                         <span
                           class="text-sm text-theme-background"
@@ -333,7 +333,7 @@ exports[`Contacts should render with contacts 1`] = `
                     class="text-center border-b border-dashed border-theme-neutral-200"
                   >
                     <div
-                      class="sc-fzpans bVDTSU border-ark-mainnet"
+                      class="sc-fzplWN iVxRgF border-ark-mainnet"
                     >
                       <div
                         class="sc-AxirZ iQaTP text-ark-mainnet"
@@ -353,13 +353,13 @@ exports[`Contacts should render with contacts 1`] = `
                       class="flex items-center space-x-3"
                     >
                       <div
-                        class="sc-fzpans cyrTyJ"
+                        class="sc-fzplWN cwoIPg"
                       />
                       <div
                         class="inline-block truncate align-middle"
                       >
                         <span
-                          class="text-theme-neutral-800 font-semibold text-base"
+                          class="sc-fzpans kkFAbe text-theme-neutral-800 font-semibold text-base"
                           data-testid="address__wallet-address"
                         >
                           ASuusXSW9kfWnicScSgUTjttP6T9GQ3kqT
@@ -371,7 +371,7 @@ exports[`Contacts should render with contacts 1`] = `
                     class="text-sm font-bold text-center border-b border-dashed border-theme-neutral-200 space-x-2"
                   >
                     <div
-                      class="sc-fzpans bVDTSU border-black"
+                      class="sc-fzplWN iVxRgF border-black"
                     >
                       <div
                         class="sc-AxirZ dCVESD"
@@ -384,7 +384,7 @@ exports[`Contacts should render with contacts 1`] = `
                       </div>
                     </div>
                     <div
-                      class="sc-fzpans bVDTSU border-black"
+                      class="sc-fzplWN iVxRgF border-black"
                     >
                       <div
                         class="sc-AxirZ dCVESD"
@@ -397,7 +397,7 @@ exports[`Contacts should render with contacts 1`] = `
                       </div>
                     </div>
                     <div
-                      class="sc-fzpans bVDTSU border-black"
+                      class="sc-fzplWN iVxRgF border-black"
                     >
                       <div
                         class="sc-AxirZ dCVESD"
@@ -447,7 +447,7 @@ exports[`Contacts should render with contacts 1`] = `
                       class="flex items-center space-x-3"
                     >
                       <div
-                        class="sc-fzpans bVDTSU bg-theme-primary-600 border-theme-primary-600"
+                        class="sc-fzplWN iVxRgF bg-theme-primary-600 border-theme-primary-600"
                       >
                         <span
                           class="text-sm text-theme-background"
@@ -466,7 +466,7 @@ exports[`Contacts should render with contacts 1`] = `
                     class="text-center "
                   >
                     <div
-                      class="sc-fzpans bVDTSU border-ark-mainnet"
+                      class="sc-fzplWN iVxRgF border-ark-mainnet"
                     >
                       <div
                         class="sc-AxirZ iQaTP text-ark-mainnet"
@@ -486,13 +486,13 @@ exports[`Contacts should render with contacts 1`] = `
                       class="flex items-center space-x-3"
                     >
                       <div
-                        class="sc-fzpans cyrTyJ"
+                        class="sc-fzplWN cwoIPg"
                       />
                       <div
                         class="inline-block truncate align-middle"
                       >
                         <span
-                          class="text-theme-neutral-800 font-semibold text-base"
+                          class="sc-fzpans kkFAbe text-theme-neutral-800 font-semibold text-base"
                           data-testid="address__wallet-address"
                         >
                           ASuusXSW9kfWnicScSgUTjttP6T9GQ3kqT
@@ -504,7 +504,7 @@ exports[`Contacts should render with contacts 1`] = `
                     class="text-sm font-bold text-center border-b border-dashed border-theme-neutral-200 space-x-2"
                   >
                     <div
-                      class="sc-fzpans bVDTSU border-black"
+                      class="sc-fzplWN iVxRgF border-black"
                     >
                       <div
                         class="sc-AxirZ dCVESD"
@@ -554,7 +554,7 @@ exports[`Contacts should render with contacts 1`] = `
                     class="text-center "
                   >
                     <div
-                      class="sc-fzpans bVDTSU border-bitcoin-mainnet"
+                      class="sc-fzplWN iVxRgF border-bitcoin-mainnet"
                     >
                       <div
                         class="sc-AxirZ iQaTP text-bitcoin-mainnet"
@@ -574,13 +574,13 @@ exports[`Contacts should render with contacts 1`] = `
                       class="flex items-center space-x-3"
                     >
                       <div
-                        class="sc-fzpans cyrTyJ"
+                        class="sc-fzplWN cwoIPg"
                       />
                       <div
                         class="inline-block truncate align-middle"
                       >
                         <span
-                          class="text-theme-neutral-800 font-semibold text-base"
+                          class="sc-fzpans kkFAbe text-theme-neutral-800 font-semibold text-base"
                           data-testid="address__wallet-address"
                         >
                           15pyr1HRAxpq3x64duXav1csmyCtXXu9G8
@@ -603,7 +603,7 @@ exports[`Contacts should render with contacts 1`] = `
                     class="text-center border-b border-dashed border-theme-neutral-200"
                   >
                     <div
-                      class="sc-fzpans bVDTSU border-ethereum-mainnet"
+                      class="sc-fzplWN iVxRgF border-ethereum-mainnet"
                     >
                       <div
                         class="sc-AxirZ iQaTP text-ethereum-mainnet"
@@ -623,13 +623,13 @@ exports[`Contacts should render with contacts 1`] = `
                       class="flex items-center space-x-3"
                     >
                       <div
-                        class="sc-fzpans cyrTyJ"
+                        class="sc-fzplWN cwoIPg"
                       />
                       <div
                         class="inline-block truncate align-middle"
                       >
                         <span
-                          class="text-theme-neutral-800 font-semibold text-base"
+                          class="sc-fzpans kkFAbe text-theme-neutral-800 font-semibold text-base"
                           data-testid="address__wallet-address"
                         >
                           0x5e8f7a63e31c759ef0ad5e71594e838b380d7c33
@@ -641,7 +641,7 @@ exports[`Contacts should render with contacts 1`] = `
                     class="text-sm font-bold text-center border-b border-dashed border-theme-neutral-200 space-x-2"
                   >
                     <div
-                      class="sc-fzpans bVDTSU border-black"
+                      class="sc-fzplWN iVxRgF border-black"
                     >
                       <div
                         class="sc-AxirZ dCVESD"

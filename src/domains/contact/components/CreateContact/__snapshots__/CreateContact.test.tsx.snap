@@ -56,7 +56,7 @@ exports[`CreateContact should render a modal 1`] = `
             data-testid="contact-form"
           >
             <fieldset
-              class="sc-AxhUy dJlYTe flex flex-col space-y-2"
+              class="sc-AxgMl cwpxCQ flex flex-col space-y-2"
             >
               <label
                 class="flex inline-block mb-2 text-sm FormLabel transition-colors duration-100 text-theme-neutral-dark"
@@ -66,13 +66,13 @@ exports[`CreateContact should render a modal 1`] = `
                 Name
               </label>
               <input
-                class="sc-AxgMl cMCunF overflow-hidden shadow-sm w-full bg-theme-background appearance-none rounded border border-theme-neutral-300 py-3 px-4 text-theme-neutral-900 transition-colors duration-200 focus:outline-none focus:border-theme-primary "
+                class="sc-AxheI gJZyBf overflow-hidden shadow-sm w-full bg-theme-background appearance-none rounded border border-theme-neutral-300 py-3 px-4 text-theme-neutral-900 transition-colors duration-200 focus:outline-none focus:border-theme-primary "
                 data-testid="contact-form__name-input"
                 name="name"
               />
             </fieldset>
             <fieldset
-              class="sc-AxhUy dJlYTe flex flex-col space-y-2"
+              class="sc-AxgMl cwpxCQ flex flex-col space-y-2"
             >
               <label
                 class="flex inline-block mb-2 text-sm FormLabel transition-colors duration-100 text-theme-neutral-dark"
@@ -82,10 +82,10 @@ exports[`CreateContact should render a modal 1`] = `
                 Network
               </label>
               <div
-                class="sc-fzozJi OgXfh"
+                class="sc-fzoLsD rzdyj"
               >
                 <select
-                  class="sc-AxgMl cMCunF overflow-hidden shadow-sm w-full bg-theme-background appearance-none rounded border border-theme-neutral-300 py-3 px-4 text-theme-neutral-900 transition-colors duration-200 focus:outline-none focus:border-theme-primary pr-12"
+                  class="sc-AxheI gJZyBf overflow-hidden shadow-sm w-full bg-theme-background appearance-none rounded border border-theme-neutral-300 py-3 px-4 text-theme-neutral-900 transition-colors duration-200 focus:outline-none focus:border-theme-primary pr-12"
                   data-testid="contact-form__network-select"
                   name="network"
                 >
@@ -98,7 +98,7 @@ exports[`CreateContact should render a modal 1`] = `
                   </option>
                 </select>
                 <div
-                  class="sc-AxheI sc-AxmLO ecniej w-12 text-lg pointer-events-none text-theme-neutral-dark"
+                  class="sc-Axmtr sc-fzozJi blzTcm w-12 text-lg pointer-events-none text-theme-neutral-dark"
                 >
                   <div
                     class="sc-AxirZ iQaTP"
@@ -113,7 +113,7 @@ exports[`CreateContact should render a modal 1`] = `
               </div>
             </fieldset>
             <fieldset
-              class="sc-AxhUy dJlYTe flex flex-col space-y-2"
+              class="sc-AxgMl cwpxCQ flex flex-col space-y-2"
             >
               <label
                 class="flex inline-block mb-2 text-sm FormLabel transition-colors duration-100 text-theme-neutral-dark"
@@ -123,7 +123,7 @@ exports[`CreateContact should render a modal 1`] = `
                 Address
               </label>
               <input
-                class="sc-AxgMl cMCunF overflow-hidden shadow-sm w-full bg-theme-background appearance-none rounded border border-theme-neutral-300 py-3 px-4 text-theme-neutral-900 transition-colors duration-200 focus:outline-none focus:border-theme-primary "
+                class="sc-AxheI gJZyBf overflow-hidden shadow-sm w-full bg-theme-background appearance-none rounded border border-theme-neutral-300 py-3 px-4 text-theme-neutral-900 transition-colors duration-200 focus:outline-none focus:border-theme-primary "
                 data-testid="contact-form__address-input"
                 name="address"
               />
