@@ -45,6 +45,7 @@ import { ReactComponent as Instagram } from "./instagram.svg";
 import { ReactComponent as Ipfs } from "./ipfs.svg";
 import { ReactComponent as Key } from "./key.svg";
 import { ReactComponent as Ledger } from "./ledger.svg";
+import { ReactComponent as LinkWeb } from "./link-web.svg";
 import { ReactComponent as Link } from "./link.svg";
 import { ReactComponent as LinkedIn } from "./linkedin.svg";
 import { ReactComponent as List } from "./list.svg";
@@ -136,6 +137,7 @@ export const SvgCollection: any = {
 	Key,
 	Ledger,
 	Link,
+	LinkWeb,
 	LinkedIn,
 	List,
 	Medium,
