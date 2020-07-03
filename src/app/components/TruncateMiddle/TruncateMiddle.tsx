@@ -1,3 +1,4 @@
+import Tippy from "@tippyjs/react";
 import React from "react";
 import { styled } from "twin.macro";
 
@@ -5,11 +6,12 @@ type Props = {
 	text: string;
 	maxChars?: number;
 	as?: React.ElementType;
+	showTooltip?: boolean;
 } & React.HTMLProps<any>;
 
 const Wrapper = styled.span``;
 
-export const TruncateMiddle = ({ text, maxChars, ...props }: Props) => {
+export const TruncateMiddle = ({ text, maxChars, showTooltip, ...props }: Props) => {
 	const result = React.useMemo(() => {
 		if (!maxChars || text.length <= maxChars) {
 			return text;
@@ -21,9 +23,14 @@ export const TruncateMiddle = ({ text, maxChars, ...props }: Props) => {
 		return `${start}…${end}`;
 	}, [maxChars, text]);
 
-	return <Wrapper {...props}>{result}</Wrapper>;
+	return (
+		<Tippy content={text} disabled={!showTooltip}>
+			<Wrapper {...props}>{result}</Wrapper>
+		</Tippy>
+	);
 };
 
 TruncateMiddle.defaultProps = {
 	maxChars: 16,
+	showTooltip: true,
 };

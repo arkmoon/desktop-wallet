@@ -41,7 +41,7 @@ export const Link = ({ isExternal, children, tooltip, ...props }: Props) => {
 				{isExternal && (
 					<Icon
 						data-testid="Link__external"
-						name="LinkWeb"
+						name="Redirect"
 						className={`flex-shrink-0 ${children ? "ml-2 text-sm" : "text-theme-primary"}`}
 					/>
 				)}
